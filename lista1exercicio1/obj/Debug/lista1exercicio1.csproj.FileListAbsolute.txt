@@ -1,0 +1,8 @@
+C:\Users\aluno\Desktop\Nova pasta\lista1exercicio1\lista1exercicio1\bin\Debug\lista1exercicio1.exe.config
+C:\Users\aluno\Desktop\Nova pasta\lista1exercicio1\lista1exercicio1\bin\Debug\lista1exercicio1.exe
+C:\Users\aluno\Desktop\Nova pasta\lista1exercicio1\lista1exercicio1\bin\Debug\lista1exercicio1.pdb
+C:\Users\aluno\Desktop\Nova pasta\lista1exercicio1\lista1exercicio1\obj\Debug\lista1exercicio1.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Nova pasta\lista1exercicio1\lista1exercicio1\obj\Debug\lista1exercicio1.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\Nova pasta\lista1exercicio1\lista1exercicio1\obj\Debug\lista1exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Nova pasta\lista1exercicio1\lista1exercicio1\obj\Debug\lista1exercicio1.exe
+C:\Users\aluno\Desktop\Nova pasta\lista1exercicio1\lista1exercicio1\obj\Debug\lista1exercicio1.pdb
